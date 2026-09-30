@@ -144,7 +144,7 @@ git clone <your-repository-url>
 cd Drone-Flight-Calculator
 ```
 
-## ▶️ How to Run
+##  How to Run
 
 Run the main program:
 
